@@ -1,4 +1,4 @@
-background_generator
+background generator
 generate linear gradient code with two colors
 
-available on pages: https://sinamh.github.io/background_generator/
+available on pages: https://sinamh.github.io/smjs--background-generator/
